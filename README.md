@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I'm Iruoghene 👋
 
-<!--
-**sasharity/sasharity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer based in Lagos, Nigeria, passionate about building practical, user-friendly applications and solving real-world problems with technology.
+I work across web development, software development, and data analysis, and I enjoy turning ideas into functional applications while continuously improving my technical skills.
 
-Here are some ideas to get you started:
+About Me
+Software Developer focused on building practical and responsive applications
+Experienced with frontend and backend development
+Interested in data analysis and working with data to find useful insights
+Enjoy building projects that solve real problems
+Always improving my skills and exploring new technologies
+Associate Degree in Software Development with my Bsc in view from Brigham Young University Idaho United States
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages
+Python
+JavaScript
+C#
+Java
+SQL
+HTML
+CSS
+Frameworks & Libraries
+React
+Next.js
+Blazor
+.NET
+Tailwind CSS
+Pandas
+Tools & Platforms
+Git & GitHub
+VS Code
+Vite
+
+I'm focused on becoming a stronger software developer by building real-world applications, improving my problem-solving skills, and gaining experience working with modern software development technologies.
+
+I'm open to software development opportunities, collaborations, freelance projects, internships, and remote roles.
+Let's Connect
+LinkedIn: https://www.linkedin.com/in/iruoghene/
+Github: https://github.com/sasharity
